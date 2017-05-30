@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'redis/connection/hiredis'
 require 'connection_pool'
 require 'simplefeed/providers/redis/driver'
 
